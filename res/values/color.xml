@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="text_succes">#468847</color>    
+    <color name="text_succes">#468847</color>
     <color name="gaia_red">#B20000</color>
+    <color name="gaia_darker_red">#ff870000</color>
     <color name="gaia_maps">#3a87ad</color>
     <color name="turno_vuoto">#B20000</color>
     <color name="turno_pieno">#7E7AED</color>
